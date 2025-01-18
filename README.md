@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, 👋, I'm Prabhanjan R</h1>
-<h3 align="center">A Final Year Student who is interested in new technologies such as Articial Intelligence, Machine learning , Embedded Systems. I strive to be able to help people from my knowledge and create a suitable impact on society</h3>
+<h3 align="center">Student who is interested in technologies such as Articial Intelligence, Machine learning , Embedded Systems. I strive to be able to help people from my knowledge and create a suitable impact on society</h3>
 
 ### Profile views counter 👁️‍🗨️
 
@@ -8,7 +8,7 @@
 
 
 
-- 📫  reach me **prabhanjanrmysore50@gmail.com**
+- 📫  reach me **prabhanjanraghu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
