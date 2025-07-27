@@ -5,7 +5,7 @@
   <em>Passionate about creating innovative solutions that bridge technology and real-world impact</em>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamprabhanjan&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhanjan R" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamprabhanjan&label=Profile%20views&color=orange&base=1000&style=for-the-badge" alt="Prabhanjan R" /> </p>
 
 ---
 
