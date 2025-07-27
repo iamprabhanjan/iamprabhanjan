@@ -30,6 +30,7 @@ I'm a passionate developer with expertise spanning **Android Development**, **We
     <img src="https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" />
   </a>
 </p>
+
 ---
 
 ## 🚀 Featured Projects
