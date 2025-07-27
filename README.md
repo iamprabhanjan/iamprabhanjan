@@ -32,6 +32,7 @@ I'm a passionate developer with expertise spanning **Android Development**, **We
 - **[Log Analysis Tool](https://github.com/iamprabhanjan/log-analysis-app)** - Intelligent Flask-based system for analyzing Android logs with AI-powered suggestions
 
 ### 🤖 AI/ML Projects
+- **[VULCAN - Video Understanding System](https://github.com/iamprabhanjan/vulcan-video-understanding)** - Advanced AI-powered video analysis and question answering using vision-language models
 - **[Text2Motion](https://github.com/iamprabhanjan/Text2Motion)** - AI-powered text to motion generation system
 - **[Disease Prediction System](https://github.com/iamprabhanjan/Disease-Prediction-System)** - ML-based health diagnosis tool
 
