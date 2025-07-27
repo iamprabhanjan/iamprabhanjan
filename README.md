@@ -22,6 +22,16 @@ I'm a passionate developer with expertise spanning **Android Development**, **We
 
 ---
 
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1sEWOVG8ifmpaZegGuCFTOYpB--dDwc82/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume Link" />
+  </a>
+</p>
+---
+
 ## 🚀 Featured Projects
 
 ### 📱 Android Applications
