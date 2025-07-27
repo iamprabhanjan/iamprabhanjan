@@ -76,7 +76,7 @@ I'm a passionate developer with expertise spanning **Android Development**, **We
 
 <p align="left">
 <a href="https://www.linkedin.com/in/iamprabhanjan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:prabhanjanraghu@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="mailto:prabhanjanraghu@gmail.com"><img align="center" src="https://raw.githubusercontent.com/yourtempo/tempo-quill-icons/refs/heads/main/icons/mail-open.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ---
