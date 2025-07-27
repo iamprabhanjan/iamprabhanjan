@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Prabhanjan R</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast | 📱 Android Developer</h3>
+<h3 align="center">📱 Android Framework Dev | 🤖 AI/ML Enthusiast</h3>
 
 <p align="center">
   <em>Passionate about creating innovative solutions that bridge technology and real-world impact</em>
