@@ -13,7 +13,7 @@
 
 I'm a passionate developer with expertise spanning **Android Development**, **Web Technologies**, **AI/ML**, and **Distributed Systems**. I love building solutions that solve real problems and create meaningful impact.
 
-- 🔭 Currently working on **AI-powered applications** and **mobile development**
+- 🔭 Currently working on **Android Framework** and **AI-powered applications**
 - 🌱 Learning **advanced machine learning** and **cloud technologies**
 - 👯 Open to collaborate on **innovative projects** and **open source**
 - 💬 Ask me about **Android**, **Python**, **AI/ML**, or **web development**
