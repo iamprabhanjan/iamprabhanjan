@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Prabhanjan R</h1>
-<h3 align="center">📱 Android Framework Dev | 🤖 AI/ML Enthusiast</h3>
+<h3 align="center"> Android Platform Dev | DL Enthusiast</h3>
 
 <p align="center">
   <em>Passionate about creating innovative solutions that bridge technology and real-world impact</em>
@@ -11,15 +11,13 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer with expertise spanning **Android Development**, **Web Technologies**, **AI/ML**, and **Distributed Systems**. I love building solutions that solve real problems and create meaningful impact.
+I'm a passionate developer with interests spanning **Android Development**, **Web Technologies** and **AI/ML**. I love building solutions that solve real problems and create meaningful impact.
 
 - 🔭 Currently working on **Android Framework** and **AI-powered applications**
 - 🌱 Learning **advanced machine learning** and **cloud technologies**
 - 👯 Open to collaborate on **innovative projects** and **open source**
 - 💬 Ask me about **Android**, **Python**, **AI/ML**, or **web development**
 - 📫 Reach me: **prabhanjanraghu@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex problems into elegant solutions!
-
 ---
 
 
@@ -104,9 +102,3 @@ I'm a passionate developer with expertise spanning **Android Development**, **We
 </div>
 
 ---
-
-<div align="center">
-  <h3>💼 Open for opportunities and collaborations!</h3>
-  <p><em>Let's build something amazing together 🚀</em></p>
-</div>
-
